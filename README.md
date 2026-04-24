@@ -68,6 +68,7 @@ Os dados utilizados neste projeto são fictícios/simulados, criados com fins ed
 2. Abra utilizando o Power BI Desktop  
 3. Navegue pelas páginas do dashboard para explorar os dados  
 
+[📁 Baixar arquivo Power BI](RH.pbix)
 ---
 
 ## 🚀 Possíveis Melhorias Futuras
