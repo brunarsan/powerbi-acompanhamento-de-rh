@@ -47,10 +47,12 @@ A proposta do dashboard é transformar dados brutos em informações relevantes 
 
 ---
 
-## 📸 Preview do Dashboard
 
-Dashboard RH
+## 📷 Preview do Dashboard
 
+![Dashboard 1](69a24d3d-8678-4393-84eb-26b60511c574.png)
+![Dashboard 2](0dc73b84-ccdc-4972-bde0-d5c3906e7669.jpg)
+![Dashboard 3](e243ba93-4aea-439d-9984-fb6b78bf0003.png)
 
 ---
 
