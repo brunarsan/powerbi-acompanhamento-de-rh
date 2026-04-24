@@ -51,7 +51,6 @@ A proposta do dashboard é transformar dados brutos em informações relevantes 
 
 Dashboard RH
 
-(adicione aqui mais imagens se quiser mostrar outras páginas)
 
 ---
 
