@@ -1,4 +1,4 @@
-# 📊 Dashboard de RH - Análise de Colaboradores
+# Dashboard de RH - Análise de Colaboradores
 ## 🔎 Sobre o Projeto
 Este projeto foi desenvolvido no Power BI com o objetivo de analisar dados de Recursos Humanos, fornecendo uma visão clara e estratégica sobre o perfil dos colaboradores, custos e indicadores organizacionais.
 
@@ -6,7 +6,7 @@ A proposta do dashboard é transformar dados brutos em informações relevantes 
 
 ---
 
-## 🎯 Objetivos da Análise
+## Objetivos da Análise
 - Monitorar o total de colaboradores da empresa  
 - Analisar a distribuição por gênero  
 - Entender o perfil etário dos funcionários  
@@ -15,7 +15,7 @@ A proposta do dashboard é transformar dados brutos em informações relevantes 
 
 ---
 
-## 📊 KPIs Analisados
+## KPIs Analisados
 
 - Headcount Total (Total de funcionários)  
 - Distribuição por Gênero (%)  
@@ -28,7 +28,7 @@ A proposta do dashboard é transformar dados brutos em informações relevantes 
 
 ---
 
-## 📈 Principais Insights
+## Principais Insights
 
 - O setor comercial e gerencial apresenta maior impacto na folha salarial  
 - Existe uma distribuição relativamente equilibrada entre gêneros  
@@ -38,7 +38,7 @@ A proposta do dashboard é transformar dados brutos em informações relevantes 
 
 ---
 
-## 🛠️ Ferramentas Utilizadas
+## Ferramentas Utilizadas
 
 - Power BI  
 - Modelagem de dados  
@@ -48,7 +48,7 @@ A proposta do dashboard é transformar dados brutos em informações relevantes 
 ---
 
 
-## 📷 Preview do Dashboard
+## Preview do Dashboard
 
 ![Dashboard 1](69a24d3d-8678-4393-84eb-26b60511c574.png)
 ![Dashboard 2](0dc73b84-ccdc-4972-bde0-d5c3906e7669.jpg)
@@ -71,7 +71,7 @@ Os dados utilizados neste projeto são fictícios/simulados, criados com fins ed
 [📁 Baixar arquivo Power BI](RH.pbix)
 ---
 
-## 🚀 Possíveis Melhorias Futuras
+## Possíveis Melhorias Futuras
 
 - Implementação de metas e comparação com resultados  
 - Integração com banco de dados (SQL)  
@@ -80,7 +80,7 @@ Os dados utilizados neste projeto são fictícios/simulados, criados com fins ed
 
 ---
 
-## 💡 Considerações Finais
+## Considerações Finais
 
 Este projeto demonstra habilidades em:
 - Estruturação de dashboards  
