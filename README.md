@@ -32,7 +32,7 @@ A proposta do dashboard é transformar dados brutos em informações relevantes 
 
 - O setor comercial e gerencial apresenta maior impacto na folha salarial  
 - Existe uma distribuição relativamente equilibrada entre gêneros  
-- A idade média dos colaboradores indica um time jovem/adulto (adaptar se quiser)  
+- A idade média dos colaboradores indica um time jovem/adulto  
 - Algumas filiais concentram maior volume de faltas, indicando possível necessidade de análise operacional  
 - Diferenças salariais entre departamentos mostram oportunidades de padronização ou revisão  
 
